@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3029b17c99f4bc72871fbc44ccfb986",
+    "revision": "95780fc261274fa0328a2292168a4022",
     "url": "/wordguess/index.html"
   },
   {
-    "revision": "132ab2e9d43e6b95bf6b",
+    "revision": "a86e30fb1e5f02c85fd8",
     "url": "/wordguess/static/css/2.b7633576.chunk.css"
   },
   {
-    "revision": "587f89488fb05c0ec50a",
+    "revision": "b1480d9b2fe7818b6c27",
     "url": "/wordguess/static/css/main.12d42322.chunk.css"
   },
   {
-    "revision": "132ab2e9d43e6b95bf6b",
-    "url": "/wordguess/static/js/2.8db6ca67.chunk.js"
+    "revision": "a86e30fb1e5f02c85fd8",
+    "url": "/wordguess/static/js/2.18f69571.chunk.js"
   },
   {
     "revision": "f73ba50d6611f5c3f949957876282ee5",
-    "url": "/wordguess/static/js/2.8db6ca67.chunk.js.LICENSE.txt"
+    "url": "/wordguess/static/js/2.18f69571.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "587f89488fb05c0ec50a",
-    "url": "/wordguess/static/js/main.85e9da3f.chunk.js"
+    "revision": "b1480d9b2fe7818b6c27",
+    "url": "/wordguess/static/js/main.91dbbe4e.chunk.js"
   },
   {
     "revision": "5ba3b7eb275490880402",
