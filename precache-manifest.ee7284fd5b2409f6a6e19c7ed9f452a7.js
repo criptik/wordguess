@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19528ed13502f8e90ec75b79b8fda5ea",
+    "revision": "3dc3562ae4ae521b274270c631fe1484",
     "url": "/wordguess/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wordguess/static/css/2.b7633576.chunk.css"
   },
   {
-    "revision": "595b85dd015504a4fcc0",
+    "revision": "e3b2a19d446f6571af78",
     "url": "/wordguess/static/css/main.12d42322.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wordguess/static/js/2.ec87f12c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "595b85dd015504a4fcc0",
-    "url": "/wordguess/static/js/main.bab9254b.chunk.js"
+    "revision": "e3b2a19d446f6571af78",
+    "url": "/wordguess/static/js/main.e0f6d41c.chunk.js"
   },
   {
     "revision": "5ba3b7eb275490880402",
