@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wordguess/static/css/main.12d42322.chunk.css",
-    "main.js": "/wordguess/static/js/main.c03e4188.chunk.js",
-    "main.js.map": "/wordguess/static/js/main.c03e4188.chunk.js.map",
+    "main.js": "/wordguess/static/js/main.c7189813.chunk.js",
+    "main.js.map": "/wordguess/static/js/main.c7189813.chunk.js.map",
     "runtime-main.js": "/wordguess/static/js/runtime-main.5c2e9a65.js",
     "runtime-main.js.map": "/wordguess/static/js/runtime-main.5c2e9a65.js.map",
     "static/css/2.b7633576.chunk.css": "/wordguess/static/css/2.b7633576.chunk.css",
     "static/js/2.ec87f12c.chunk.js": "/wordguess/static/js/2.ec87f12c.chunk.js",
     "static/js/2.ec87f12c.chunk.js.map": "/wordguess/static/js/2.ec87f12c.chunk.js.map",
     "index.html": "/wordguess/index.html",
-    "precache-manifest.1186c657d085dd08f363bd8baaab7af4.js": "/wordguess/precache-manifest.1186c657d085dd08f363bd8baaab7af4.js",
+    "precache-manifest.51ff7391539f59084389ef5ed2d391c2.js": "/wordguess/precache-manifest.51ff7391539f59084389ef5ed2d391c2.js",
     "service-worker.js": "/wordguess/service-worker.js",
     "static/css/2.b7633576.chunk.css.map": "/wordguess/static/css/2.b7633576.chunk.css.map",
     "static/css/main.12d42322.chunk.css.map": "/wordguess/static/css/main.12d42322.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b7633576.chunk.css",
     "static/js/2.ec87f12c.chunk.js",
     "static/css/main.12d42322.chunk.css",
-    "static/js/main.c03e4188.chunk.js"
+    "static/js/main.c7189813.chunk.js"
   ]
 }

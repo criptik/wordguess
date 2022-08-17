@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wordguess/precache-manifest.1186c657d085dd08f363bd8baaab7af4.js"
+  "/wordguess/precache-manifest.51ff7391539f59084389ef5ed2d391c2.js"
 );
 
 self.addEventListener('message', (event) => {
